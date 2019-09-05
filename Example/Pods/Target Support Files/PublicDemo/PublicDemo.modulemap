@@ -1,0 +1,6 @@
+framework module PublicDemo {
+  umbrella header "PublicDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
