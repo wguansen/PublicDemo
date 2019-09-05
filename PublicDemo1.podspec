@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'PublicDemo'
+  s.name             = 'PublicDemo1'
   s.version          = '1.0.0'
   s.summary          = 'A short description of PublicDemo.'
 
