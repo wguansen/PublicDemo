@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
   #   'PublicDemo' => ['PublicDemo/Assets/*.png']
   # }
 
-s.public_header_files = 'PublicDemo/Classes/**/AHeader.h'
+s.public_header_files = 'Pod/Classes/**/*.h'
 s.source_files = 'PublicDemo/Classes/**/*'
 
   # s.frameworks = 'UIKit', 'MapKit'
