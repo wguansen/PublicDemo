@@ -10,7 +10,8 @@
 #endif
 #endif
 
+#import "CTMediator.h"
 
-FOUNDATION_EXPORT double PublicDemoVersionNumber;
-FOUNDATION_EXPORT const unsigned char PublicDemoVersionString[];
+FOUNDATION_EXPORT double CTMediatorVersionNumber;
+FOUNDATION_EXPORT const unsigned char CTMediatorVersionString[];
 

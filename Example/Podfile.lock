@@ -1,16 +1,16 @@
 PODS:
-  - PublicDemo (0.1.0)
+  - CTMediator (25)
 
 DEPENDENCIES:
-  - PublicDemo (from `../`)
+  - CTMediator
 
-EXTERNAL SOURCES:
-  PublicDemo:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
 
 SPEC CHECKSUMS:
-  PublicDemo: 052fa9b827c8a7dadc320b96b16e209f859ce1b0
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
 
-PODFILE CHECKSUM: 69448f7e64885cccec73c415d7830ead2ac5f0a8
+PODFILE CHECKSUM: 230b75bfca3452f8b8e6e7632100943759afb6ea
 
 COCOAPODS: 1.7.5

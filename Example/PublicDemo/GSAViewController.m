@@ -7,7 +7,7 @@
 //
 
 #import "GSAViewController.h"
-
+@class CTMediator;
 @interface GSAViewController ()
 
 @end
