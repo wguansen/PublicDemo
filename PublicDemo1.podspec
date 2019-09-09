@@ -35,12 +35,14 @@ TODO: Add long description of the pod here.
   #   'PublicDemo' => ['PublicDemo/Assets/*.png']
   # }
 
+s.dependency 'AFNetworking'
+s.dependency 'CTMediator'
+
 s.public_header_files = 'PublicDemo/Classes/AHeader.h'
 s.source_files = 'PublicDemo/Classes/**/*'
 
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-s.dependency 'AFNetworking'
-s.dependency 'CTMediator'
+
 
 end
