@@ -9,7 +9,7 @@
 #ifndef AHeader_h
 #define AHeader_h
 
-#import <CTMediator.h>
+#import <CTMediator/CTMediator.h>
 
 
 
