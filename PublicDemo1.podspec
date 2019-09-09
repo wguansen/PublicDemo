@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PublicDemo1'
-  s.version          = '1.0.9'
+  s.version          = '1.1.0'
   s.summary          = 'A short description of PublicDemo.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-
+spec.user_target_xcconfig ={'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES'}
   # s.resource_bundles = {
   #   'PublicDemo' => ['PublicDemo/Assets/*.png']
   # }
