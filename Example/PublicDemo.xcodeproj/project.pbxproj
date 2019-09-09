@@ -66,6 +66,7 @@
 		8411AE1023263E61004637DA /* GSAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GSAViewController.m; sourceTree = "<group>"; };
 		8411AE1923264104004637DA /* CTMediator+GSACategory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CTMediator+GSACategory.h"; sourceTree = "<group>"; };
 		8411AE1A23264104004637DA /* CTMediator+GSACategory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+GSACategory.m"; sourceTree = "<group>"; };
+		8411AE1C23264CBB004637DA /* AHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AHeader.h; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A4E4CE8CF3AF030C1BD7A98A /* PublicDemo1.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PublicDemo1.podspec; path = ../PublicDemo1.podspec; sourceTree = "<group>"; };
 		A5D4D43A3A4A6024E9CDE44E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -153,6 +154,7 @@
 				8411AE1023263E61004637DA /* GSAViewController.m */,
 				8411AE1923264104004637DA /* CTMediator+GSACategory.h */,
 				8411AE1A23264104004637DA /* CTMediator+GSACategory.m */,
+				8411AE1C23264CBB004637DA /* AHeader.h */,
 			);
 			name = "Example for PublicDemo";
 			path = PublicDemo;
