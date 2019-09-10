@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PublicDemo1'
-  s.version          = '1.1.1'
+  s.version          = '1.1.2'
   s.summary          = 'A short description of PublicDemo.'
 
 # This description is used to generate tags and improve search results.
@@ -34,14 +34,15 @@ TODO: Add long description of the pod here.
   #   'PublicDemo' => ['PublicDemo/Assets/*.png']
   # }
 
-s.dependency 'AFNetworking'
-s.dependency 'CTMediator'
 
-s.public_header_files = 'PublicDemo/Classes/AHeader.h'
+
+  # s.public_header_files = 'PublicDemo/Classes/AHeader.h'
 s.source_files = 'PublicDemo/Classes/**/*'
 
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 
+s.dependency 'AFNetworking'
+s.dependency 'CTMediator'
 
 end
